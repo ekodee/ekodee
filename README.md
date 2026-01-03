@@ -45,9 +45,9 @@ I am a final-year Information Systems student passionate about building scalable
 
 ### 📫 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/muhamad-safii-eko-kuncoro-b8053731b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekodee" height="30" width="40" /></a>
-<a href="mailto:msafiiekokuncoro1@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="ekodee" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhamad-safii-eko-kuncoro-b8053731b" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="mailto:firelord@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 </p>
 
 ---
-**"Hard work beats talent when talent doesn't work hard."** 🚀
+> **"Hard work beats talent when talent doesn't work hard."** 🚀
