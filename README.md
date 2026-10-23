@@ -3,8 +3,8 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/muhamad-safii-eko-kuncoro-b8053731b"><img src="https://img.shields.io/badge/LinkedIn-Muhamad_Safii-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:msafiiekokuncoro1@gmail.com"><img src="https://img.shields.io/badge/Email-firelord@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="[https://linkedin.com/in/muhamad-safii-eko-kuncoro-b8053731b](https://www.linkedin.com/in/muhamadsafii)"><img src="https://img.shields.io/badge/LinkedIn-Muhamad_Safii-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:msafiiekokuncoro1@gmail.com"><img src="https://img.shields.io/badge/Email-msafiiekokuncoro1@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Status-Open_to_work-fbbf24?style=flat-square" alt="Open to work" />
   <img src="https://img.shields.io/badge/Based_in-Tangerang,_ID-5eead4?style=flat-square&labelColor=0a0f1f" alt="Tangerang, Indonesia" />
 </p>
@@ -113,8 +113,8 @@ flowchart LR
 I'm open to junior web developer and backend opportunities. If you're hiring, mentoring, or just want to talk Laravel, APIs, or RAG, feel free to reach out.
 
 <p align="center">
-  <a href="https://linkedin.com/in/muhamad-safii-eko-kuncoro-b8053731b"><b>LinkedIn</b></a> ·
-  <a href="mailto:firelord@gmail.com"><b>Email</b></a> ·
+  <a href="https://www.linkedin.com/in/muhamadsafii"><b>LinkedIn</b></a> ·
+  <a href="mailto:msafiiekokuncoro1@gmail.com"><b>Email</b></a> ·
   <a href="https://github.com/ekodee"><b>GitHub</b></a>
 </p>
 
