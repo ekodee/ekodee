@@ -98,13 +98,6 @@ flowchart LR
 }
 ```
 
-<!--
-  OPTIONAL: contribution snake.
-  1) Enable the workflow in .github/workflows/snake.yml and run it once from the Actions tab.
-  2) Then remove this comment wrapper.
-
----
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ekodee/ekodee/output/github-snake-dark.svg" />
@@ -112,7 +105,6 @@ flowchart LR
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/ekodee/ekodee/output/github-snake.svg" />
   </picture>
 </div>
--->
 
 ---
 
