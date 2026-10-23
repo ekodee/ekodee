@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Muhamad Safii — Junior Web Developer" width="100%" />
+  <img src="./header.svg" alt="Muhamad Safii — Junior Web Developer" width="100%" />
 </div>
 
 <p align="center">
