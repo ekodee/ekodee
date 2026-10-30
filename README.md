@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header.svg" alt="The Safii Gazette — Developer ships, learns, ships again" width="100%" />
+  <img src="./header.svg" alt="The Safii Gazette — Building, learning, and shipping software" width="100%" />
 </div>
 
 <p align="center">
