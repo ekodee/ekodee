@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/muhamad-safii-eko-kuncoro-b8053731b"><img src="https://img.shields.io/badge/LinkedIn-Muhamad_Safii-1a1a1a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:firelord@gmail.com"><img src="https://img.shields.io/badge/Email-firelord@gmail.com-b3261e?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:msafiiekokuncoro1@gmail.com"><img src="https://img.shields.io/badge/msafiiekokuncoro1@gmail.com-b3261e?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Status-Open_to_work-8a6d3b?style=flat-square" alt="Open to work" />
 </p>
 
@@ -70,7 +70,7 @@ flowchart LR
 > **Offers:** Curiosity, discipline with Git, and a habit of reading the docs and asking good questions
 > **Seeks:** A team of experienced engineers to learn from
 >
-> **Apply within:** [LinkedIn](https://linkedin.com/in/muhamad-safii-eko-kuncoro-b8053731b) · [Email](mailto:firelord@gmail.com)
+> **Apply within:** [LinkedIn](https://linkedin.com/in/muhamad-safii-eko-kuncoro-b8053731b) · [Email](mailto:msafiiekokuncoro1@gmail.com)
 
 ---
 
@@ -112,7 +112,7 @@ Hiring, mentoring, or just want to talk Laravel, APIs, or RAG? Write in.
 
 <p align="center">
   <a href="https://linkedin.com/in/muhamad-safii-eko-kuncoro-b8053731b"><b>LinkedIn</b></a> ·
-  <a href="mailto:firelord@gmail.com"><b>Email</b></a> ·
+  <a href="mailto:msafiiekokuncoro1@gmail.com"><b>Email</b></a> ·
   <a href="https://github.com/ekodee"><b>GitHub</b></a>
 </p>
 
